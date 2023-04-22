@@ -1,0 +1,11 @@
+# The deployer private key.
+DEPLOYER_PRIVATE_KEY=
+
+# An Infura project ID.
+INFURA_PROJECT_ID=
+
+# An Etherscan API key.
+ETHERSCAN_API_KEY=
+
+# A CoinMarketCap API key.
+COINMARKETCAP_API_KEY=
