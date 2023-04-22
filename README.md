@@ -1,5 +1,5 @@
 # Bonklet
-A fractionalized bidding and improved treasury system for Remilia's Bonklers. This introduces three new contracts to the Bonkler space.
+A fractionalized bidding and improved treasury system for Remilia's Bonklers. This introduces three new contracts to the Bonkler space. The repository for the [bonklet.com](https://bonklet.com) frontend is [here](https://github.com/TimTinkers/Bonklet-Interface).
 
 ## Extended Treasury
 
